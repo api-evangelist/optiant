@@ -32,6 +32,9 @@ description: Optiant, Inc. was a Boston-area supply chain optimization software 
   and publishes no public API surface; the optiant.com domain no longer resolves. This profile was
   surfaced as a Battery Ventures portfolio company and enriched as a historical/defunct lead.
 url: https://raw.githubusercontent.com/api-evangelist/optiant/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company no longer operates independently and publishes no public API surface; the optiant.com domain no longer resolves."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
